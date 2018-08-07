@@ -4,7 +4,7 @@ Clone the project
 
 a)  Run directly such as file:/.../src/index.html
 
-    Go dist
+    Go /dist
     
     Open index.html, this use bundle.js (transpiled es6->es5)
     
