@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Apple",
+      "type": "Fruit",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "img": "http://www.manzanareinetadelbierzo.es/wp-content/uploads/2016/05/manzanas-verdes-rojas.jpg"
+    },
+    {
+      "name": "Aubergine",
+      "type": "Vegetable",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "img": "https://www.agrodigital.com/wp-content/uploads/2018/03/berenjena.jpg"
+    },
+    {
+      "name": "Banana",
+      "type": "Fruit",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "img": "https://faktor.mk/media/main/2014/12/bananas.jpg"
+    },
+    {
+      "name": "Brocoli",
+      "type": "Vegetable",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "img": "https://estaticos.miarevista.es/media/cache/760x570_thumb/uploads/images/article/577247a7a1119be306b5a0da/int-brocoli.jpg"
+    },
+    {
+      "name": "Chicken",
+      "type": "Meat",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "img": "https://resources.stuff.co.nz/content/dam/images/1/n/m/w/a/s/image.related.StuffLandscapeSixteenByNine.620x349.1pfcps.png/1523926730895.jpg"
+    },
+    {
+      "name": "Orange",
+      "type": "Fruit",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "img": "https://www.onegoodthingbyjillee.com/wp-content/uploads/2013/03/oranges.png"
+    },
+    {
+      "name": "Beef",
+      "type": "Meat",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "img": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/38/2048x1365/gallery-1506010658-beef-tenderloin-delish.jpg?resize=480:*"
+    },
+    {
+      "name": "Zucchini",
+      "type": "Vegetable",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "img": "https://cdn-pro.elsalvador.com/wp-content/uploads/2017/06/08173433/Zucchini.jpg"
+    }
+  ]

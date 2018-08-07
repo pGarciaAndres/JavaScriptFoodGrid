@@ -1,0 +1,85 @@
+.navbar-inline {
+    display: inline-block !important;
+}
+
+.navbar-right {
+    text-align: right;
+    float: left;
+    width: 100%;
+}
+
+.filter {
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+.badge-warning {
+    color: white !important;
+}
+
+.margin {
+    margin: 0 .5em 0 .5em;
+}
+
+.card-title {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 2.5;
+    color: inherit;
+    font-size: 1.25rem;
+}
+
+.card-type {
+    float: right;
+    margin: 1.5em 0 1.5em 0;
+}
+
+.cropped {
+    object-fit: cover;
+    height: 200px;
+}
+
+.more-info {
+    vertical-align: sub;
+    padding-left: 5px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+li.active {
+    text-decoration: underline !important;
+}
+
+.card {
+    min-height: 32em;
+    vertical-align: top;
+    display: inline-block;
+}
+
+@media (min-width: 30em) {
+    .card {
+        width: 98%;
+        margin: 1%;
+    }
+}
+
+@media (min-width: 36em) {
+    .card {
+        width: 48%;
+        margin: 1%;
+    }
+}
+
+@media (min-width: 48em) {
+    .card {
+        width: 31%;
+        margin: 1%;
+    }
+}
+
+@media (min-width: 62em) {
+    .card {
+        width: 23%;
+        margin: 1%;
+    }
+}
