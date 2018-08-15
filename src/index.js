@@ -2,6 +2,7 @@
 
 window.onload = () => {
     loadFood();
+    addCheckboxEvent();
 }
 
 const createNode = (element) => {
@@ -104,10 +105,14 @@ const emptyNotification = () => {
     }
 }
 
-const filter = (checkbox) => {
-    Array.from(document.getElementsByClassName(checkbox.name)).map(function (element) {
-        element.style.display = checkbox.checked ? 'inline-block' : 'none';
+const addCheckboxEvent = () => {
+    const checkboxGroup = document.querySelectorAll("input[type=checkbox]");
+    checkboxGroup.forEach(function (checkbox) {
+        checkbox.addEventListener("change", () => {
+            Array.from(document.getElementsByClassName(checkbox.name)).map(function (element) {
+                element.style.display = checkbox.checked ? 'inline-block' : 'none';
+            });
+            emptyNotification();
+        });
     });
-
-    emptyNotification();
 }
