@@ -1,3 +1,8 @@
+## JavaScript Food Grid
+Test the web app following [this link](https://food-items-jahfaxldih.now.sh/) .
+
+This project was developed with JavaScript ECMAScript 6.
+
 ## GET STARTED
 
 Clone the project
