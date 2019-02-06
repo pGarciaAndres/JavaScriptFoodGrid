@@ -4,6 +4,9 @@
 
 - This project was developed with JavaScript ECMAScript 6.
 
+
+![alt text](https://cdn1.imggmi.com/uploads/2019/2/6/b7b3f7dece3a807095e20d0df00738a1-full.jpg)
+
 ## GET STARTED
 
 Clone the project
