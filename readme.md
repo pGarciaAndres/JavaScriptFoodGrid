@@ -1,7 +1,5 @@
 # JavaScript Food Grid :meat_on_bone:
 
-- Test the web app following [this link](https://food-items-jahfaxldih.now.sh/) .
-
 - This project was developed with JavaScript ECMAScript 6.
 
 
